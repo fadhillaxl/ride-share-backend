@@ -1,7 +1,7 @@
 
-## Contributing
+## install dependeci
 composer install
 
-## Code of Conduct
+## run laravel
 php artisan serve --port=80
 php artisan websockets:serve
